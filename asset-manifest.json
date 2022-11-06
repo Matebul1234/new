@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Matebul1234/newsapp.git/static/css/main.7eb11688.css",
+    "main.js": "/Matebul1234/newsapp.git/static/js/main.886b467c.js",
+    "static/media/no.jpg": "/Matebul1234/newsapp.git/static/media/no.d04c7a9d1de3713c9b20.jpg",
+    "index.html": "/Matebul1234/newsapp.git/index.html",
+    "main.7eb11688.css.map": "/Matebul1234/newsapp.git/static/css/main.7eb11688.css.map",
+    "main.886b467c.js.map": "/Matebul1234/newsapp.git/static/js/main.886b467c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb11688.css",
+    "static/js/main.886b467c.js"
+  ]
+}
